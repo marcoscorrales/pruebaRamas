@@ -1,0 +1,14 @@
+.header{
+    width: 100%;
+    margin-bottom: 3rem;
+}
+.titulo{
+    text-align: center;
+    color: black;
+    font-size: 2rem;
+}
+
+.hr{
+border: 1px solid grey;
+}
+

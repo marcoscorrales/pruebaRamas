@@ -1,0 +1,17 @@
+.articulo3{
+    border: 1px solid grey;
+    border-top: 5px solid rgb(255, 208, 0);
+    padding: 0.5rem;
+    text-align: right;
+    margin-top: 1rem;
+}
+.articulo__h2{
+    text-align: center;
+}
+.articulo__p{
+   font-size: 1.2rem;
+   text-align: left;
+}
+.articulo__img{
+    text-align: right;
+}
